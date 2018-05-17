@@ -1,0 +1,9 @@
+/Users/pasasoft_mini/Desktop/xamarin-forms/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.deps.json
+/Users/pasasoft_mini/Desktop/xamarin-forms/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.dll
+/Users/pasasoft_mini/Desktop/xamarin-forms/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.pdb
+/Users/pasasoft_mini/Desktop/xamarin-forms/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/obj/Debug/netstandard2.0/Zhangyongjie.CustomKit.csprojResolveAssemblyReference.cache
+/Users/pasasoft_mini/Desktop/xamarin-forms/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/obj/Debug/netstandard2.0/Zhangyongjie.CustomKit.csproj.CoreCompileInputs.cache
+/Users/pasasoft_mini/Desktop/xamarin-forms/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/obj/Debug/netstandard2.0/Zhangyongjie.CustomKit.AssemblyInfoInputs.cache
+/Users/pasasoft_mini/Desktop/xamarin-forms/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/obj/Debug/netstandard2.0/Zhangyongjie.CustomKit.AssemblyInfo.cs
+/Users/pasasoft_mini/Desktop/xamarin-forms/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/obj/Debug/netstandard2.0/Zhangyongjie.CustomKit.dll
+/Users/pasasoft_mini/Desktop/xamarin-forms/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/obj/Debug/netstandard2.0/Zhangyongjie.CustomKit.pdb
