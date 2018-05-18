@@ -82,6 +82,10 @@
     <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\Icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\drawable\ic_tabbar_home.png" />
+    <AndroidResource Include="Resources\drawable\ic_tabbar_notification.png" />
+    <AndroidResource Include="Resources\drawable\icon_tabbar_myup.png" />
+    <AndroidResource Include="Resources\drawable\icon_tabbar_shoppingup.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

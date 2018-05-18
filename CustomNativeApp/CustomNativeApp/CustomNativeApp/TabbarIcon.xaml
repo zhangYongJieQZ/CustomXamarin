@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CustomNativeApp.TabbarIcon">
+    <ContentView.Content>            
+        <StackLayout Orientation="Vertical" HorizontalOptions="Fill" VerticalOptions="CenterAndExpand">
+            <Image x:Name="iconImage" WidthRequest="22" HeightRequest="22" BackgroundColor="Green" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+            <Label x:Name="labelText" TextColor="Black" HorizontalTextAlignment="Center" FormattedText="12" VerticalOptions="CenterAndExpand" HorizontalOptions="Fill"/>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

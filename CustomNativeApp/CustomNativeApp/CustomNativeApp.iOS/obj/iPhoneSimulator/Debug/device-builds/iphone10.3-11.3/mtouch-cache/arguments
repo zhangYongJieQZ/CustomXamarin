@@ -1,7 +1,7 @@
 # Version: 11.10.1.177 (d15-7: 7e782c1e)
-# [first argument, ignore] # --cache=/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/mtouch-cache
+# [first argument, ignore] # --cache=/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/mtouch-cache
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/lib/mtouch/mtouch.exe \
-	--sim=/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/CustomNativeApp.iOS.app \
+	--sim=/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/CustomNativeApp.iOS.app \
 	--executable=CustomNativeApp.iOS \
 	--debug \
 	--nolink \
@@ -11,9 +11,9 @@
 	--aot-options=-O=-float32 \
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
-	--symbollist=/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/mtouch-symbols.list \
+	--symbollist=/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/mtouch-symbols.list \
 	--dsym=no \
-	-r=/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.dll \
+	-r=/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -196,7 +196,7 @@
 	-r=/Users/pasasoft_mini/.nuget/packages/xamarin.forms/3.0.0.446417/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r=/Users/pasasoft_mini/.nuget/packages/xamarin.forms/3.0.0.446417/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r=/Users/pasasoft_mini/.nuget/packages/xamarin.forms/3.0.0.446417/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
-	-r=/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.dll \
-	-r=/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.dll \
+	-r=/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.dll \
+	-r=/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.dll \
 	'--target-framework=Xamarin.iOS,v1.0' \
-	--root-assembly=/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/bin/iPhoneSimulator/Debug/CustomNativeApp.iOS.exe \
+	--root-assembly=/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/bin/iPhoneSimulator/Debug/CustomNativeApp.iOS.exe \

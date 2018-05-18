@@ -1,4 +1,4 @@
-/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/bin/iPhoneSimulator/Debug/CustomNativeApp.iOS.exe
+/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/bin/iPhoneSimulator/Debug/CustomNativeApp.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/lib/mono/Xamarin.iOS/System.dll
@@ -28,6 +28,6 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.177/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XDocument.dll
 /Users/pasasoft_mini/.nuget/packages/xamarin.forms/3.0.0.446417/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
-/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.dll
+/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.dll
 /Users/pasasoft_mini/.nuget/packages/xamarin.forms/3.0.0.446417/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
-/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.dll
+/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.dll

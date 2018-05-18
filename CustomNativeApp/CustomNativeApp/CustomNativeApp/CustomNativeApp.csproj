@@ -9,6 +9,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="MainPage.cs" />
+    <Compile Remove="CustomTabbarPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\Zhangyongjie.CustomKit\Zhangyongjie.CustomKit\Zhangyongjie.CustomKit.csproj" />

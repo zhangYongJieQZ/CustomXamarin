@@ -156,4 +156,10 @@
       <Name>CustomNativeApp</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_tabbar_notification.png" />
+    <BundleResource Include="Resources\icon_tabbar_myup.png" />
+    <BundleResource Include="Resources\icon_tabbar_shoppingup.png" />
+    <BundleResource Include="Resources\ic_tabbar_home.png" />
+  </ItemGroup>
 </Project>

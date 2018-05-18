@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{2C63828C-E7B5-47A9-92B2-A9A05E117DA0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CustomNativeApp/FirstPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomNativeApp/CustomTabbarPage.xaml">
     <Files>
-      <File FileName="CustomNativeApp/FirstPage.xaml" Line="13" Column="1" />
-      <File FileName="CustomNativeApp/FirstPage.xaml.cs" Line="13" Column="10" />
-      <File FileName="CustomNativeApp/TestPage.cs" Line="7" Column="40" />
-      <File FileName="CustomNativeApp/MyPage.cs" Line="7" Column="34" />
-      <File FileName="CustomNativeApp/App.xaml" Line="5" Column="15" />
-      <File FileName="CustomNativeApp/App.xaml.cs" Line="13" Column="13" />
+      <File FileName="CustomNativeApp/CustomTabbarPage.xaml" Line="11" Column="63" />
+      <File FileName="CustomNativeApp/CustomTabbarPage.xaml.cs" Line="30" Column="55" />
+      <File FileName="CustomNativeApp/TabbarIcon.xaml" Line="3" Column="38" />
+      <File FileName="CustomNativeApp/TabbarIcon.xaml.cs" Line="22" Column="10" />
+      <File FileName="CustomNativeApp/App.xaml.cs" Line="42" Column="13" />
+      <File FileName="CustomNativeApp/MyPage.cs" Line="37" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
