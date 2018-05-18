@@ -1,0 +1,11 @@
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.csprojResolveAssemblyReference.cache
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.csproj.CoreCompileInputs.cache
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.AssemblyInfoInputs.cache
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.AssemblyInfo.cs
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.deps.json
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.dll
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.pdb
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.dll
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.pdb
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.dll
+/Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.pdb

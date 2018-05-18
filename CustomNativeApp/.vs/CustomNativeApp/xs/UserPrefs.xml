@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{11BF7489-D79E-4F83-8C3D-8BC40017FEBE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test.Tool/MyClass.cs">
+    <Files>
+      <File FileName="CustomNativeApp/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="CustomNativeApp/App.xaml" Line="5" Column="15" />
+      <File FileName="CustomNativeApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="CustomNativeApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Test.Tool/MyClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomNativeApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C358188E-6D34-43B6-8F28-9E4C588CDF41" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Test.Tool FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CustomNativeApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CustomNativeApp FirstBuild="True" />
+</Properties>
