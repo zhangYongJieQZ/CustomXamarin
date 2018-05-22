@@ -20,3 +20,14 @@
 /Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.pdb
 /Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.dll
 /Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.pdb
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.csprojResolveAssemblyReference.cache
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.csproj.CoreCompileInputs.cache
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.AssemblyInfoInputs.cache
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.AssemblyInfo.cs
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.dll
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/obj/Debug/netstandard2.0/CustomNativeApp.pdb
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.deps.json
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.dll
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/CustomNativeApp.pdb
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.dll
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/bin/Debug/netstandard2.0/Zhangyongjie.CustomKit.pdb

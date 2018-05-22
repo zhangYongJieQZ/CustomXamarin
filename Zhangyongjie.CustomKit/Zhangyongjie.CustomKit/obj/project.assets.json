@@ -334,23 +334,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/pasasoft_mini/.nuget/packages/": {},
+    "/Users/zhangyongjie/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit.csproj",
+      "projectUniqueName": "/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit.csproj",
       "projectName": "Zhangyongjie.CustomKit",
-      "projectPath": "/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit.csproj",
-      "packagesPath": "/Users/pasasoft_mini/.nuget/packages/",
-      "outputPath": "/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/obj",
+      "projectPath": "/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit.csproj",
+      "packagesPath": "/Users/zhangyongjie/.nuget/packages/",
+      "outputPath": "/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/pasasoft_mini/.config/NuGet/NuGet.Config"
+        "/Users/zhangyongjie/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

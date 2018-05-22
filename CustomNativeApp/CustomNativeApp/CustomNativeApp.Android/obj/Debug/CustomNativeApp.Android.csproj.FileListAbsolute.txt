@@ -40,3 +40,4 @@
 /Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
 /Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/obj/Debug/linksrc/FormsViewGroup.dll.mdb
 /Users/pasasoft_mini/Desktop/xamarin-forms/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/obj/Debug/CustomNativeApp.Android.csprojResolveAssemblyReference.cache

@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{2C63828C-E7B5-47A9-92B2-A9A05E117DA0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CustomNativeApp/CustomTabbarPage.xaml">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="CustomNativeApp/CustomTabbarPage.xaml" Line="11" Column="63" />
-      <File FileName="CustomNativeApp/CustomTabbarPage.xaml.cs" Line="30" Column="55" />
-      <File FileName="CustomNativeApp/TabbarIcon.xaml" Line="3" Column="38" />
+      <File FileName="CustomNativeApp/CustomTabbarPage.xaml.cs" Line="12" Column="10" />
       <File FileName="CustomNativeApp/TabbarIcon.xaml.cs" Line="22" Column="10" />
-      <File FileName="CustomNativeApp/App.xaml.cs" Line="42" Column="13" />
-      <File FileName="CustomNativeApp/MyPage.cs" Line="37" Column="32" />
+      <File FileName="CustomNativeApp/CustomTabbedPage.cs" Line="65" Column="10" />
+      <File FileName="CustomNativeApp/CustomTabbarPage.xaml" Line="7" Column="16" />
+      <File FileName="CustomNativeApp/App.xaml.cs" Line="42" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -14,7 +13,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CustomNativeApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C358188E-6D34-43B6-8F28-9E4C588CDF41" />
+  <MonoDevelop.Ide.ItemProperties.CustomNativeApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.39150C7E-E84C-40D9-8C91-E31277F89C3B" />
   <MonoDevelop.Ide.ItemProperties.CustomNativeApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MultiItemStartupConfigurations />
 </Properties>
