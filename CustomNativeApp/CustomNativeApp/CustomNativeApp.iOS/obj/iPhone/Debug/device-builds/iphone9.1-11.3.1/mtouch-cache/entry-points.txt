@@ -1,0 +1,29 @@
+Function=xamarin_timezone_get_data
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/mscorlib.dll
+Function=CreateZStream
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-11.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip

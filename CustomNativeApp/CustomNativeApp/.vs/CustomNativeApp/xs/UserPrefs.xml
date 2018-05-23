@@ -1,19 +1,53 @@
 ﻿<Properties StartupConfiguration="{2C63828C-E7B5-47A9-92B2-A9A05E117DA0}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomNativeApp.iOS/CustomTabbedPageRenderer.cs">
     <Files>
-      <File FileName="CustomNativeApp/CustomTabbarPage.xaml.cs" Line="12" Column="10" />
-      <File FileName="CustomNativeApp/TabbarIcon.xaml.cs" Line="22" Column="10" />
-      <File FileName="CustomNativeApp/CustomTabbedPage.cs" Line="65" Column="10" />
-      <File FileName="CustomNativeApp/CustomTabbarPage.xaml" Line="7" Column="16" />
-      <File FileName="CustomNativeApp/App.xaml.cs" Line="42" Column="23" />
+      <File FileName="CustomNativeApp/CustomTabbedPage.cs" Line="14" Column="10" />
+      <File FileName="CustomNativeApp.iOS/CustomTabbedPageRenderer.cs" Line="12" Column="59" />
+      <File FileName="CustomNativeApp/App.xaml.cs" Line="31" Column="13" />
+      <File FileName="CustomNativeApp/CustomNavigationPage.cs" Line="9" Column="55" />
+      <File FileName="CustomNativeApp.iOS/CustomNavigationPageRenderer.cs" Line="33" Column="1" />
+      <File FileName="CustomNativeApp/FirstPage.xaml.cs" Line="14" Column="13" />
+      <File FileName="CustomNativeApp/TestPage.cs" Line="21" Column="9" />
+      <File FileName="CustomNativeApp/FirstPage.xaml" Line="13" Column="1" />
+      <File FileName="../../Zhangyongjie.CustomKit/Zhangyongjie.CustomKit/TestTablePage.cs" Line="27" Column="46" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomNativeApp" expanded="True">
+            <Node name="CustomNativeApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="FirstPage.xaml" expanded="True" />
+            </Node>
+            <Node name="CustomNativeApp.iOS" expanded="True">
+              <Node name="CustomTabbedPageRenderer.cs" selected="True" />
+            </Node>
+            <Node name="Zhangyongjie.CustomKit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="CustomNativeApp" expanded="True" selected="True">
+            <Node name="CustomNativeApp" expanded="True" />
+            <Node name="CustomNativeApp.Android" expanded="True" />
+            <Node name="CustomNativeApp.iOS" expanded="True" />
+            <Node name="Zhangyongjie.CustomKit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/TestPage.cs" relfile="CustomNativeApp/TestPage.cs" line="23" column="1" />
+      <Breakpoint file="/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/TestPage.cs" relfile="CustomNativeApp/TestPage.cs" line="29" column="1" />
+      <Breakpoint file="/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/TestPage.cs" relfile="CustomNativeApp/TestPage.cs" line="35" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CustomNativeApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.39150C7E-E84C-40D9-8C91-E31277F89C3B" />
+  <MonoDevelop.Ide.ItemProperties.CustomNativeApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9C547F87-A495-4995-9E8B-97D4D1566F08" />
   <MonoDevelop.Ide.ItemProperties.CustomNativeApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -14,7 +14,28 @@ namespace CustomNativeApp
                     new Label { Text = "Hello ContentPage" }
                 }
             };
+            //OnBackButtonPressed += BackButtonAction;
+
         }
+
+        protected override bool OnBackButtonPressed()
+        {
+            Console.WriteLine("zzzzz");
+            return base.OnBackButtonPressed();
+        }
+
+        protected override void OnAppearing()
+        {
+            Console.WriteLine("OnAppearing");
+            base.OnAppearing();
+        }
+
+        protected override void OnDisappearing()
+        {
+            Console.WriteLine("OnDisappearing");
+            base.OnDisappearing();
+        }
+
     }
 }
 

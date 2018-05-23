@@ -769,19 +769,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/zhangyongjie/.nuget/packages/": {}
+    "/Users/pasasoft_mini/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/CustomNativeApp.Android.csproj",
+      "projectUniqueName": "/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/CustomNativeApp.Android.csproj",
       "projectName": "CustomNativeApp.Android",
-      "projectPath": "/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/CustomNativeApp.Android.csproj",
-      "packagesPath": "/Users/zhangyongjie/.nuget/packages/",
-      "outputPath": "/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/obj",
+      "projectPath": "/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/CustomNativeApp.Android.csproj",
+      "packagesPath": "/Users/pasasoft_mini/.nuget/packages/",
+      "outputPath": "/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/zhangyongjie/.config/NuGet/NuGet.Config"
+        "/Users/pasasoft_mini/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
@@ -792,8 +792,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/CustomNativeApp.csproj": {
-              "projectPath": "/Users/zhangyongjie/Desktop/xmarin/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/CustomNativeApp.csproj"
+            "/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/CustomNativeApp.csproj": {
+              "projectPath": "/Users/pasasoft_mini/Desktop/MyGithub/CustomXamarin/CustomNativeApp/CustomNativeApp/CustomNativeApp/CustomNativeApp.csproj"
             }
           }
         }

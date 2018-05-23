@@ -8,6 +8,10 @@ namespace CustomNativeApp
     {
         void Handle_Clicked(object sender, System.EventArgs e)
         {
+
+            //var nav = (CustomNavigationPage)FirstPage.NavigationProperty;
+            //nav.HidesBottomBarWhenPushed = true;
+
             TestTablePage page = new TestTablePage();
             Navigation.PushAsync(page);
         }
@@ -15,6 +19,7 @@ namespace CustomNativeApp
         public FirstPage()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
         }
     }
 }

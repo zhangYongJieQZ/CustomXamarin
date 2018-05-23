@@ -10,6 +10,8 @@
   <ItemGroup>
     <Compile Remove="MainPage.cs" />
     <Compile Remove="CustomTabbarPage.cs" />
+    <Compile Remove="CustomBasePage.cs" />
+    <Compile Remove="MyPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\Zhangyongjie.CustomKit\Zhangyongjie.CustomKit\Zhangyongjie.CustomKit.csproj" />
